@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "THOCA_THOAPP",
+    "slug": "THOCA_THOAPP"
+  }
+}
