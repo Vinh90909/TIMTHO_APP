@@ -5,6 +5,9 @@
       "bundler": "metro"
     },
     "name": "THOCA_THOAPP",
-    "slug": "THOCA_THOAPP"
+    "slug": "THOCA_THOAPP",
+    "android": {
+      "permissions": ["CAMERA_ROLL"]
+    }
   }
 }
